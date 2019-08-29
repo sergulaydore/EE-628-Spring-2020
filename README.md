@@ -29,7 +29,7 @@ After successful completion of this course, students will be able to
 *	There will be weekly coding or handwritten assignments. The students will return coding assignments via github.
 
 ## COURSE MATERIALS
-* Textbook(s): 		Dive into Deep Learning by A. Zhang, Z. Lipton, M. Lu, A. Smola 
+* Textbook(s): 		[Dive into Deep Learning by A. Zhang, Z. Lipton, M. Lu, A. Smola] (https://www.d2l.ai/index.html) 
 * Other Materials: 	http://cs231n.stanford.edu, https://people.csail.mit.edu/madry/6.883/
 * Materials:	 	Canvas will be used for sharing assignment links and grades
 
