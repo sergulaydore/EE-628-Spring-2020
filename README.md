@@ -8,7 +8,7 @@ Electrical and Computer Engineering Fall 2019 at Stevens Institute of Technology
 * **Teaching Assistant:**   Tianhao Zhu, tzhu12@stevens.edu
 * **Office Hours:**		
   * Sergul Aydore: Burchard Building 211, Thursdays at 1.00pm-3.00pm
-  * Tianhao Zhu: TBA
+  * Tianhao Zhu: Burchard Building 315, Wednesday at 1.00pm-3.00pm
 
 * **Course Web Address:**	https://github.com/sergulaydore/EE-628-Fall-2019
 * **Cross-listed with:** 	Data Acquisition/Proc II 
