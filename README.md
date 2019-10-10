@@ -48,7 +48,7 @@ Grades will be based on:
 Late Policy: Assignments submitted after the deadline will not be graded.
 
 ## IMPORTANT DATES
-* Midterm exam **10/18/2019 Thursday at 3.30pm **
+* Midterm exam **10/17/2019 Thursday at 3.30pm **
 * Deadline for Project Proposals **11/01/2019 Friday at 5pm ET**
   - This includes creation of a github repository with READ.md file that contains the summary of the project.
   - Late submissions or repositories with empty READ.md file will lose 30 points from their grade for the project.
