@@ -55,7 +55,7 @@ Late Policy: Assignments submitted after the deadline will not be graded.
 * Deadline for Projects **12/02/2019 Monday at 5pm ET**
   - Projects will be graded based on
     - project report with at least 6 pages using the [style file](https://courses.d2l.ai/berkeley-stat-157/media/latex.zip)      (40 %)
-    - project presentation      (40 %)
+    - project presentation on **12/05/2019 class time**     (40 %)
     - organization of the github page (20 %)
 
 ## ACADEMIC INTEGRITY 
