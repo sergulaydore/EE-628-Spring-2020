@@ -2,16 +2,14 @@
 Electrical and Computer Engineering Fall 2019 at Stevens Institute of Technology
 
 * **Meeting Times:** 	Thursdays at 3.30pm-6pm 
-* **Classroom Location:**	Main Campus, ABS 301
-* **Instructor:** 		Assistant Prof. Sergul Aydore 	
+* **Classroom Location:**	Main Campus, B 430
+* **Instructor:** 		Dr. Sergul Aydore 	
 * **Contact Info:** 		Burchard Building 211, saydore@stevens.edu
-* **Teaching Assistant:**   Tianhao Zhu, tzhu12@stevens.edu
-* **Office Hours:**		
-  * Sergul Aydore: Burchard Building 211, Thursdays at 1.00pm-3.00pm
-  * Tianhao Zhu: Burchard Building 315, Wednesday at 1.00pm-3.00pm
+* **Office Hours:**	 Burchard Building 211, Thursdays 1pm-3pm
 
-* **Course Web Address:**	https://github.com/sergulaydore/EE-628-Fall-2019
-* **Cross-listed with:** 	Data Acquisition/Proc II 
+* **Course Web Address:**	https://github.com/sergulaydore/EE-628-Spring-2020
+* **Cross-listed with:** 	Data Acquisition/Proc II
+* **Prerequisite course:** EE -627 
 
 ## COURSE DESCRIPTION
 
@@ -48,14 +46,14 @@ Grades will be based on:
 Late Policy: Assignments submitted after the deadline will not be graded.
 
 ## IMPORTANT DATES
-* Midterm exam **10/17/2019 Thursday at 3.30pm **
-* Deadline for Project Proposals **11/01/2019 Friday at 5pm ET**
+* Midterm exam **TBA Thursday at 3.30pm **
+* Deadline for Project Proposals **TBA Friday at 5pm ET**
   - This includes creation of a github repository with READ.md file that contains the summary of the project.
   - Late submissions or repositories with empty READ.md file will lose 30 points from their grade for the project.
-* Deadline for Projects **12/02/2019 Monday at 5pm ET**
+* Deadline for Projects **TBA Monday at 5pm ET**
   - Projects will be graded based on
     - project report with at least 6 pages using the [style file](https://courses.d2l.ai/berkeley-stat-157/media/latex.zip)      (40 %)
-    - project presentation on **12/05/2019 class time**     (40 %)
+    - project presentation on **TBA class time**     (40 %)
     - organization of the github page (20 %)
 
 ## ACADEMIC INTEGRITY 
