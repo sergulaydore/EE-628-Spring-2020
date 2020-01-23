@@ -46,14 +46,14 @@ Grades will be based on:
 Late Policy: Assignments submitted after the deadline will not be graded.
 
 ## IMPORTANT DATES
-* Midterm exam **TBA Thursday at 3.30pm **
-* Deadline for Project Proposals **TBA Friday at 5pm ET**
+* Midterm exam **03/12/2020 at 3.30pm **
+* Deadline for Project Proposals **04/03/2020 Friday at 5pm ET**
   - This includes creation of a github repository with READ.md file that contains the summary of the project.
   - Late submissions or repositories with empty READ.md file will lose 30 points from their grade for the project.
-* Deadline for Projects **TBA Monday at 5pm ET**
+* Deadline for Projects **04/27/2020 Monday at 5pm ET**
   - Projects will be graded based on
     - project report with at least 6 pages using the [style file](https://courses.d2l.ai/berkeley-stat-157/media/latex.zip)      (40 %)
-    - project presentation on **TBA class time**     (40 %)
+    - project presentation on **04/30/2020**     (40 %)
     - organization of the github page (20 %)
 
 ## ACADEMIC INTEGRITY 
